@@ -1,0 +1,33 @@
+a  {
+	text-decoration: none;
+}
+
+body {
+	/*background-color: #1C1427;*/
+	background-image: url("https://wallpapers.com/images/high/galactic-beach-animated-aez0lqnixifaybos.jpg");
+	background-size: cover;
+}
+
+.wrap {
+	width: 960px;
+	margin: 0 left;
+}
+
+p {	
+  margin: 0;
+  color: #7ECA9C;
+  text-indent: 3ch;
+  font-size: 24px;
+}
+
+.item {
+	padding: 10px;
+	background-color: #FFAFAF;
+	border: 3px solid #40394A;
+	border-radius: 5% 10%;
+}
+
+.animals {
+	border: 3px solid #40394A;
+	border-radius: 5% 10%;
+}
